@@ -1,0 +1,4 @@
+[submodule "whisper.cpp"]
+	path = whisper.cpp
+	url = https://github.com/ogier244/whisper.cpp
+	branch = master
